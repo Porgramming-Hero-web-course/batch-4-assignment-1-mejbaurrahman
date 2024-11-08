@@ -1,6 +1,7 @@
 Union Types
 
 A union type represents a value that can be one of several types. It's defined using the | operator.
+
 type Combinable = string | number;
 Here Combinable is either string or number it can be both types.
 
